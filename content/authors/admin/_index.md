@@ -1,13 +1,16 @@
 ---
 title: Ricardo Cerri
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 avatar_filename: eu1-resize-2.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My main research interests involve the following areas:  i) Machine
+  Learning (with particular emphasis multi-output learning problems -
+  hierarchical/multi-label/multi-target); ii) Machine Learning for Data
+  streams.; iii) Bioinspired algorithms (Artificial Neural Networks, and
+  Evolutionary Algorithms); iv) Machine Learning applications, with particular
+  emphasis on Bioinformatics."
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - BioinformaticsMachineLearning
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,9 +45,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Prof. Dr. Ricardo Cerri obtained his P.hD in Computer Science and Computational Mathematics from University of São Paulo (ICMC/USP/Brazil), working with Neural Networks and Genetic Algorithms for Hierarchical and Multi-label Problems. During his P.hD., he had a long research stay at Universities of Surrey and Kent, both in United Kingdom. His P.hD Thesis was the 2nd Best PhD Thesis in the Brazilian Contest of Artificial Intelligence Thesis promoted by the Brazilian Computer Society (2014). He was also author of the student best paper on the IEEE Congress on Evolutionary Computation (2013). He has experience working mainly with Bioinformatics and Machine Learning, focusing on advanced methods for data classification, such as multi-output and structured learning. Currently he holds the position of Assistant Professor at the Department of Computer Science from Federal University of São Carlos (UFSCar/Brazil), leading the Bioinformatics and Machine Learning research group (BioMal). During 2019 he was a visiting researcher at the Laboratory of Artificial Intelligence and Decision Support (LIAAD), working with multi-output learning in data streams.
