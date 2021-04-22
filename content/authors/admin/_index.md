@@ -29,19 +29,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Federal University of São Calos
+    url: www.ufscar.br
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Computer Science
+      institution: University of São Paulo
+      year: 2013
+    - course: Msc in Computer Science
+      institution: University of São Paulo
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Science
+      institution: State University of São Paulo
+      year: 2007
 email: ""
 superuser: true
 highlight_name: false
