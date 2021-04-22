@@ -10,7 +10,8 @@ bio: "My main research interests involve the following areas:  i) Machine
   emphasis on Bioinformatics."
 interests:
   - Artificial Intelligence
-  - BioinformaticsMachineLearning
+  - Bioinformatics
+  - MachineLearning
 social:
   - icon: envelope
     icon_pack: fas
