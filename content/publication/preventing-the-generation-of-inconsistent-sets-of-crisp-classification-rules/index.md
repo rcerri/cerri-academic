@@ -2,9 +2,9 @@
 title: Preventing the generation of inconsistent sets of crisp classification rules
 publication_types:
   - "2"
-authors:Thiago Zafalon Miranda
+authors:
 - admin
-- 
+- Thiago Zafalon Miranda
 doi: http://dx.doi.org/10.1016/j.eswa.2020.113811
 draft: false
 featured: true
