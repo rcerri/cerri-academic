@@ -3,7 +3,7 @@ title: Automatic Evolution of Deep Neural Networks
 date: 2021-04-23T14:05:04.521Z
 draft: false
 featured: false
-external_link: https://bv.fapesp.br/en/auxilios/107677/identification-of-snps-and-genes-related-to-grain-yield-in-rice-using-machine-learning/
+external_link:""
 links: []
 image:
   filename: featured
