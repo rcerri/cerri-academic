@@ -4,7 +4,7 @@ widget_id: featured
 headless: true
 weight: 30
 title: Selected Publications
-active: true
+active: false
 design:
   columns: "2"
   background:
