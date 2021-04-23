@@ -22,6 +22,4 @@ design:
 
 [Reduction strategies for hierarchical multi-label classification in protein function prediction](http://dx.doi.org/10.1186/s12859-016-1232-1). CERRI, R.; Barros, R. C. ; Carvalho, A. C. P. L. F ; JIN, Y. BMC BIOINFORMATICS, v. 17, p. 373-24, 2016.
 
-
-
-For a more complete list of publications, please visit the [Bioinformatics and Machine Learning Group](http://www.biomal.ufscar.br/) website.
+For a more complete list of publications, please visit the [Bioinformatics and Machine Learning Group](http://www.biomal.ufscar.br/publications.html) website.
