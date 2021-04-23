@@ -18,4 +18,4 @@ Currently I coordinate two research projects with grants:
 
 I am currently also involved in different projects related to Data Stream Mining, Active Learning, Semi-supervised Learning, Pattern Classification, Multi-objective Optimization, Hierarchical and Multi-label Classification, and Multi-target Classification and Regression, and also predictive and descriptive tasks in bioinformatics, specially those complex ones involving multiple and structured outputs. 
 
-For a complete list of research topics, please visit the [Bioinformatics and Machine Learning Group](http://www.biomal.ufscar.br) website.
+For a complete list of research topics, please visit the [Bioinformatics and Machine Learning Group](http://www.biomal.ufscar.br/research.html) website.
