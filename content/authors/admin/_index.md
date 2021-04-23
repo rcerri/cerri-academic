@@ -1,7 +1,7 @@
 ---
 title: Ricardo Cerri
 role: Assistant Professor
-avatar_filename: eu1-resize-2.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Artificial Intelligence
