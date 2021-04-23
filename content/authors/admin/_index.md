@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/ricardo-cerri-7b121b36/
   - icon: lattes
-  - icon_pack: ai
-  - link: http://lattes.cnpq.br/6266519868438512  
+    icon_pack: ai
+    link: http://lattes.cnpq.br/6266519868438512  
 organizations:
   - name: Federal University of São Carlos
     url: "http://www.ufscar.br"
