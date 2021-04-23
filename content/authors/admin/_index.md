@@ -11,18 +11,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:cerri@ufscar.br
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/cerrirc
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/cerrirc
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=Ro1p1sAAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ricardo-cerri-7b121b36/
+  - icon: lattes
+  - icon_pack: ai
+  - link: http://lattes.cnpq.br/6266519868438512  
 organizations:
   - name: Federal University of São Carlos
-    url: ""
+    url: "http://www.ufscar.br"
 education:
   courses:
     - course: Post-doc researcher
