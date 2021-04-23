@@ -14,7 +14,7 @@ design:
 ---
 [Preventing the generation of inconsistent sets of crisp classification rules](https://doi.org/10.1016/j.eswa.2020.113811). MIRANDA, THIAGO ZAFALON ; SARDINHA, DIORGE BROGNARA ; CERRI, RICARDO. EXPERT SYSTEMS WITH APPLICATIONS, 2021.
 
-.[Active learning for hierarchical multi-label classification](http://dx.doi.org/10.1007/s10618-020-00704-w). NAKANO, FELIPE KENJI ; CERRI, RICARDO ; VENS, CELINE. DATA MINING AND KNOWLEDGE DISCOVERY, p. 1-35, 2020.
+[Active learning for hierarchical multi-label classification](http://dx.doi.org/10.1007/s10618-020-00704-w). NAKANO, FELIPE KENJI ; CERRI, RICARDO ; VENS, CELINE. DATA MINING AND KNOWLEDGE DISCOVERY, p. 1-35, 2020.
 
 [Inducing Hierarchical Multi-label Classification rules with Genetic Algorithms](http://dx.doi.org/10.1016/j.asoc.2019.01.017). CERRI, RICARDO; BASGALUPP, MÁRCIO P. ; BARROS, RODRIGO C. ; CARVALHO, ANDRÉ CARLOS P.L.F. APPLIED SOFT COMPUTING, v. 77, p. 584-604, 2019.
 
