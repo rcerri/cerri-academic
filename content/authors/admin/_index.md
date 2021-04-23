@@ -49,4 +49,4 @@ highlight_name: false
 ---
 **Hello!**
 
-I am an Assistant Professor at the [Department of Computer Science](www.dc.ufscar.br) from [Federal University of São Carlos](www.ufscar.br) (UFSCar/Brazil). Currently I work mainly with Bioinformatics and Machine Learning, focusing on advanced methods for data classification, such as multi-output and structured learning. I am the leader of the [Bioinformatics and Machine Learning research group](www.biomal.ufscar.br) (BioMal).
+I am an Assistant Professor at the [Department of Computer Science](http://www.dc.ufscar.br) from [Federal University of São Carlos](http://www.ufscar.br) (UFSCar/Brazil). Currently I work mainly with Bioinformatics and Machine Learning, focusing on advanced methods for data classification, such as multi-output and structured learning. I am the leader of the [Bioinformatics and Machine Learning research group](http://www.biomal.ufscar.br) (BioMal).
