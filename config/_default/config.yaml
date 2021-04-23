@@ -27,10 +27,10 @@ module:
     
 
 ############################
-## IMAGES
+## IMAGES - Eu coloquei e tirei
 ############################
-media_folder: "static/img"
-public_folder: "/img"
+#media_folder: "static/img"
+#public_folder: "/img"
 
 ############################
 ## ADVANCED
