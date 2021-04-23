@@ -1,7 +1,7 @@
 ---
 title: Ricardo Cerri
 role: Assistant Professor
-avatar_filename: eu1-resize-2.jpg
+avatar_filename: https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png
 bio: "My main research interests involve the following areas:  i) Machine
   Learning (with particular emphasis multi-output learning problems -
   hierarchical/multi-label/multi-target); ii) Machine Learning for Data
