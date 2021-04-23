@@ -5,7 +5,7 @@ publication_types:
 authors: []
 doi: http://dx.doi.org/10.1016/j.eswa.2020.113811
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
