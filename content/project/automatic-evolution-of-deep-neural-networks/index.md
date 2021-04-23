@@ -3,7 +3,7 @@ title: Automatic Evolution of Deep Neural Networks
 date: 2021-04-23T14:05:04.521Z
 draft: false
 featured: false
-external_link:""
+external_link: ""
 links: []
 image:
   filename: featured
