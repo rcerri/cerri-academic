@@ -18,7 +18,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2021-04-23T15:33:36.524Z
