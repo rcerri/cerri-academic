@@ -3,6 +3,7 @@ widget: contact
 widget_id: Contact
 headless: true
 weight: 20
+title: Contact
 active: true
 design:
   columns: "2"
