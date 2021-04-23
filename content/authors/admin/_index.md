@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/ricardo-cerri-7b121b36/
 organizations:
-  - name: Federal University of São Calos
+  - name: Federal University of São Carlos
     url: ""
 education:
   courses:
