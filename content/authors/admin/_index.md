@@ -1,7 +1,7 @@
 ---
 title: Ricardo Cerri
 role: Assistant Professor
-avatar_filename: https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png
+avatar_filename: eu1-resize-2.jpg
 bio: "My main research interests involve the following areas:  i) Machine
   Learning (with particular emphasis multi-output learning problems -
   hierarchical/multi-label/multi-target); ii) Machine Learning for Data
@@ -15,35 +15,38 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:cerri@ufscar.br
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/cerrirc
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=Ro1p1sAAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ricardo-cerri-7b121b36/
 organizations:
   - name: Federal University of São Calos
-    url: www.ufscar.br
+    url: ""
 education:
   courses:
+    - course: Post-doc research
+      institution: Laboratory of Artificial Intelligence and Decision Support (LIAAD)
+        - University of Porto - Portugal
+      year: 2019
     - course: PhD in Computer Science
-      institution: University of São Paulo
+      institution: University of São Paulo - Brazil
       year: 2013
     - course: Msc in Computer Science
-      institution: University of São Paulo
+      institution: University of São Paulo - Brazil
       year: 2009
     - course: BSc in Computer Science
-      institution: State University of São Paulo
+      institution: State University of São Paulo - Brazil
       year: 2007
 email: ""
 superuser: true
 highlight_name: false
 ---
-Prof. Dr. Ricardo Cerri obtained his P.hD in Computer Science and Computational Mathematics from University of São Paulo (ICMC/USP/Brazil), working with Neural Networks and Genetic Algorithms for Hierarchical and Multi-label Problems. During his P.hD., he had a long research stay at Universities of Surrey and Kent, both in United Kingdom. His P.hD Thesis was the 2nd Best PhD Thesis in the Brazilian Contest of Artificial Intelligence Thesis promoted by the Brazilian Computer Society (2014). He was also author of the student best paper on the IEEE Congress on Evolutionary Computation (2013). He has experience working mainly with Bioinformatics and Machine Learning, focusing on advanced methods for data classification, such as multi-output and structured learning. Currently he holds the position of Assistant Professor at the Department of Computer Science from Federal University of São Carlos (UFSCar/Brazil), leading the Bioinformatics and Machine Learning research group (BioMal). During 2019 he was a visiting researcher at the Laboratory of Artificial Intelligence and Decision Support (LIAAD), working with multi-output learning in data streams.
+**Hello!**
+
+I am an Assistant Professor at the [Department of Computer Science](www.dc.ufscar.br) from [Federal University of São Carlos](www.ufscar.br) (UFSCar/Brazil). Currently I work mainly with Bioinformatics and Machine Learning, focusing on advanced methods for data classification, such as multi-output and structured learning. I am the leader of the [Bioinformatics and Machine Learning research group](www.biomal.ufscar.br) (BioMal).
