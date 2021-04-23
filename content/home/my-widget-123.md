@@ -1,6 +1,6 @@
 ---
 widget: project
-widget_id: my-widget-123
+widget_id: projects
 headless: true
 weight: 20
 title: Projects
