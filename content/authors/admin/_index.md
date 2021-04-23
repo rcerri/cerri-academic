@@ -25,7 +25,7 @@ organizations:
     url: ""
 education:
   courses:
-    - course: Post-doc research
+    - course: Post-doc researcher
       institution: Laboratory of Artificial Intelligence and Decision Support (LIAAD)
         - University of Porto - Portugal
       year: 2019
