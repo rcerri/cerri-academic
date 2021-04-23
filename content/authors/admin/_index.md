@@ -6,7 +6,7 @@ bio: ""
 interests:
   - Artificial Intelligence
   - Bioinformatics
-  - MachineLearning
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
