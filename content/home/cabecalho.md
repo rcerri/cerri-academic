@@ -4,6 +4,7 @@ widget_id: cabecalho
 headless: true
 weight: 10
 active: true
+height: 300px
 design:
   columns: "2"
   background:
