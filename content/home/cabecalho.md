@@ -3,7 +3,7 @@ widget: blank
 widget_id: cabecalho
 headless: true
 weight: 10
-active: true
+active: false
 height: 300px
 design:
   columns: "2"
