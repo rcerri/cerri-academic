@@ -3,7 +3,7 @@ widget: blank
 widget_id: cabecalho
 headless: true
 weight: 10
-active: false
+active: true
 height: 300px
 design:
   columns: "2"
@@ -12,5 +12,3 @@ design:
     image_darken: 0
 ---
 {{< figure src="logofinalBioMal-2.PNG" caption="" >}}
-
-design**dlgn;wngosdnf'lasdnglsdnfpiwen ojwerjposejfpwoejfpiwoe**
