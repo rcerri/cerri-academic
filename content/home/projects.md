@@ -6,7 +6,7 @@ weight: 30
 title: Projects
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     text_color_light: false
     image_darken: 0
