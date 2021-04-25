@@ -2,7 +2,7 @@
 widget: projects
 widget_id: projects
 headless: true
-weight: 20
+weight: 30
 title: Projects
 active: true
 design:
