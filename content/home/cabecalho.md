@@ -2,7 +2,7 @@
 widget: blank
 widget_id: cabecalho
 headless: true
-weight: 0
+weight: 10
 active: true
 design:
   columns: "2"
